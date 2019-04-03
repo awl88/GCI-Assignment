@@ -26,7 +26,7 @@ public class ContractService {
 		
 		Contract con = new Contract("HB-134", 
 				LocalDate.of(2014,2, 1), 
-				LocalDate.of(2016, 2, 30), 
+				LocalDate.of(2016, 2, 28), 
 				sites);
 		contract = con;
 		
